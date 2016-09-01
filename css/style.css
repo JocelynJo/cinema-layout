@@ -1,0 +1,92 @@
+
+.cabecera p{
+	width: 100%;
+	margin-top: 10%;
+	margin-left: 20%;
+}
+.banner{
+	float: left;
+}
+.banner img{
+	width: 100%;
+	float: left;
+}
+.asider{
+	width: 100%;
+	margin-left: 10%;
+	display: inline-block;
+	margin:0;
+	background-color: #383838;
+}
+.asider h3{
+	padding: 3%;
+	color:white;
+}
+
+.asider .verde{
+	width: 30%;
+	height: 40%;
+	border:#3bcf68 solid 2px;
+	border-radius: 5px 5px 5px 5px ;
+	margin:5% -3% auto;
+	padding: 3%;
+	float:left;
+	color:#3bcf68;
+}
+.tex{
+	color:white;
+	float:left;
+	margin-left: 30%;
+	margin-top: -10%;
+}
+.title1{
+	float: left;
+	margin-right: 30px;	
+	color:white;
+}
+.barra{
+	width: 100%;
+	margin:0 auto;
+}
+.textos{
+	text-align: left;
+}
+
+.asider .parr{
+	display: inline;
+	float: left;
+	margin-right: 2%;
+	text-align: left;
+	color:white;
+}
+.parrafo p{
+	margin-top:3%;
+	text-align: left;
+	color:white;
+	font-family:FontAwesome;
+	font-size:10px;
+	clear: both;
+}
+.boton-naranjo{
+	width: 10%;
+	height: 80%;
+	margin:5% -3% auto;
+	background-color: #dfb636;
+	border-radius: 5px 5px 5px 5px;
+	display: inline;
+	float:left;
+}
+.barra-ama{
+	background-color: #dfb636;
+	width: 100%;
+}
+.barra-ama .foto1 img{
+	width: 100%;
+	display: inline-block;
+	margin:40% auto;
+}
+.video{
+	width: 100%;
+	background-color: black;	
+
+}
